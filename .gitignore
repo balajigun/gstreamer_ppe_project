@@ -42,6 +42,8 @@ env/
 *.pth
 *.onnx
 *.engine
+*.xml
+*.bin
 
 # OpenVINO generated / large model artifacts
 *.bin
